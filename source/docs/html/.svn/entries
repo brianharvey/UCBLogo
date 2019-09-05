@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="176"
+   name=""
+   committed-date="2008-08-19T21:02:50.478824Z"
+   url="https://ucblogo.svn.sourceforge.net/svnroot/ucblogo/docs/html"
+   last-author="chou86_e"
+   kind="dir"
+   uuid="fc4ef4ee-df3e-0410-84de-fb01f5d6c4f7"
+   repos="https://ucblogo.svn.sourceforge.net/svnroot/ucblogo"
+   revision="184"/>
+<entry
+   committed-rev="176"
+   name="usermanual.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="ff6625e314b2a91ca4769f0962ceea17"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_10.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="86e66bf694107dfd77deff5f75fdd591"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_11.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="dcf9d4d00396d4e61b3815e8a96f98af"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_12.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="d73c7af50393fa69573555e73c69abae"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_13.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="327ea9d4c3e3e88c23a4b5d06b44ad2e"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_14.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="cc5ef57d349b922cf343828cb299ef18"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_toc.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="9930effd60e246abb98b53824200719b"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_15.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="e6f98f8d02165ab5341938a9dec8b97a"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:52.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_16.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="26273bf1e73044507eab83da61c53749"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_fot.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="57e13c8aee13727e5b890919e79a1362"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_1.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="1ab099d0a4c302f70d47ecde41c7f759"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_2.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="03b72187146cbd3b826e05133fd57230"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_3.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="3b8799c885bd75cdcb4391c5551c7249"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_4.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="0d2326f08a4fa04679eec2185fa6da86"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_5.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="3183fc1a9a745d2ba1a235cb61cf785a"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_6.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="7fcc00375f1e8e1256380e1643d02aa8"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_7.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="a11478902b0533ca03fe71092b51abf5"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_abt.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="3543545e51d4146e8008f711f45c1431"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_ovr.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="72c3fa1c7519ce3293b393d368f8ef8d"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:53.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_8.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="fc16ae9ce5d4b3ae0fdb50390cc3b392"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:54.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual_9.html"
+   text-time="2008-08-21T02:36:54.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="54d40756d14c6246da26c5910049d3b4"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:54.000000Z"/>
+</wc-entries>

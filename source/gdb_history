@@ -1,0 +1,34 @@
+run
+bt
+break real_print_help
+run
+bye
+q
+run
+break real_print_node
+co
+cont
+bt
+frame 4
+li
+bt
+call debprint(n1)
+call dbprint(n1)
+co
+cont
+*n1
+print *n1
+q
+break real_print_node
+run
+cont
+cont
+unbreak real_print_node
+help breakpoints
+delete
+bt
+frame 4
+call dbprint(n1)
+call dbprint(n2)
+q
+run

@@ -1,0 +1,7 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:1672: gcc -c -g -O  conftest.c 1>&5
+configure:1672: gcc -c -g -O  conftest.c 1>&5
+configure: In function 't':
+configure:1666: warning: 'return' with a value, in function returning void

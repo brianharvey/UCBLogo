@@ -1,0 +1,2 @@
+#! /bin/csh
+/Applications/TextEdit.app/Contents/MacOS/TextEdit $1

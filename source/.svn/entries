@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="176"
+   name=""
+   committed-date="2008-08-19T21:02:50.478824Z"
+   url="https://ucblogo.svn.sourceforge.net/svnroot/ucblogo/docs"
+   last-author="chou86_e"
+   kind="dir"
+   uuid="fc4ef4ee-df3e-0410-84de-fb01f5d6c4f7"
+   repos="https://ucblogo.svn.sourceforge.net/svnroot/ucblogo"
+   revision="184"/>
+<entry
+   committed-rev="176"
+   name="usermanual.texi"
+   text-time="2008-08-21T02:37:02.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="9fc9668a61eaf0d8f85d50b648bf96fd"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:58.000000Z"/>
+<entry
+   name="html"
+   kind="dir"/>
+<entry
+   committed-rev="176"
+   name="ucblogo.info"
+   text-time="2008-08-21T02:37:02.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="64ee7f24c4b2389b2ff2cbb4b4f67cb1"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:55.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual.pdf"
+   text-time="2008-08-21T02:37:02.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="9797981500c8c383a24b77da0686b656"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:58.000000Z"/>
+<entry
+   committed-rev="176"
+   name="makefile"
+   text-time="2008-08-21T02:37:02.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="e6bbe5f538049b98054ab0eb0790ebd7"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:36:58.000000Z"/>
+<entry
+   committed-rev="176"
+   name="usermanual.ps"
+   text-time="2008-08-21T02:37:02.000000Z"
+   committed-date="2008-08-19T21:02:50.478824Z"
+   checksum="e1423efc56bb4d38235d67bc66859e36"
+   last-author="chou86_e"
+   kind="file"
+   prop-time="2008-08-21T02:37:02.000000Z"/>
+</wc-entries>
